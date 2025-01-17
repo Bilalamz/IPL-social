@@ -16,3 +16,4 @@ Le développement suit la méthodologie TDD (Test Driven Development).
 Pour exécuter les tests, utilisez la commande suivante :
 ```bash
 npm test
+# Petit test final
